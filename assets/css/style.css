@@ -598,14 +598,14 @@ section {
 .services #maincontent {
   width: 80%;
   float: right;
-  margin-right: -50px;
+  margin-right: -5%;
   background-color: #ffffff;
 }
 .services #menuindextour {
   text-align: left;
   float: left;
-  width: 300px;
-  margin-left: -100px;
+  width: 30%;
+  margin-left: -10%;
   background-color: #fddff6;
   position: relative;
   font-size: 12px;
@@ -613,8 +613,8 @@ section {
 .services #menuindexsala {
   text-align: left;
   float: left;
-  width: 300px;
-  margin-left: -100px;
+  width: 25%;
+  margin-left: -7%;
   background-color: #fddff6;
   position: fixed;
   font-size: 12px;
@@ -622,8 +622,8 @@ section {
 .services #menuindex {
   text-align: left;
   float: left;
-  width: 300px;
-  margin-left: -100px;
+  width: 25%;
+  margin-left: -7%;
   background-color: #fddff6;
   position: fixed;
   font-size: 12px;
