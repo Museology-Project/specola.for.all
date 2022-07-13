@@ -596,16 +596,16 @@ section {
   font-size: 15px;
 }
 .services #maincontent {
-  width: 80%;
+  width: 75%;
   float: right;
-  margin-right: -5%;
+  margin-right: -2%;
   background-color: #ffffff;
 }
 .services #menuindextour {
   text-align: left;
   float: left;
-  width: 30%;
-  margin-left: -10%;
+  width: 25%;
+  margin-left: -2%;
   background-color: #fddff6;
   position: relative;
   font-size: 12px;
@@ -614,7 +614,7 @@ section {
   text-align: left;
   float: left;
   width: 25%;
-  margin-left: -7%;
+  margin-left: -2%;
   background-color: #fddff6;
   position: fixed;
   font-size: 12px;
@@ -623,7 +623,7 @@ section {
   text-align: left;
   float: left;
   width: 25%;
-  margin-left: -7%;
+  margin-left: -2%;
   background-color: #fddff6;
   position: fixed;
   font-size: 12px;
